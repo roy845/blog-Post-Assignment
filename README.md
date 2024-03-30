@@ -38,7 +38,7 @@ This is a Blog posts/events App built with NextJS(React Framework) with typescri
 
 1. Open a new terminal in VSCODE.
 2. Install dependencies: npm/yarn install.
-3. Run the client: npm/yarn start.
+3. Run the client: npm/yarn run dev.
 
 ## Features
 
