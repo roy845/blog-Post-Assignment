@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "New Post",
-  description: "Create new post",
+  title: "New Event",
+  description: "Create new event",
 };
 
 export default function NewPostLayout({
