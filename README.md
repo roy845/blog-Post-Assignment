@@ -2,6 +2,9 @@
 
 This is a Blog posts/events App built with NextJS(React Framework) with typescript, Redux for state management and headlessui and tailwindcss for styling.
 
+link to the website:
+https://blog-post-assignment-alpha.vercel.app/
+
 ## Technology stack
 
 - **React**
