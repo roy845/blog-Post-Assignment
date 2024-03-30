@@ -19,6 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
+        <link rel="favicon" href="/favicon.png" />
         <Toaster position="bottom-left" />
 
         <ReduxProvider>{children}</ReduxProvider>
