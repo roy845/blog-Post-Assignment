@@ -64,7 +64,8 @@ This is a Blog posts/events App built with NextJS(React Framework) with typescri
 
   <a href="https://ibb.co/SXnNK7z"><img src="https://i.ibb.co/rG6kZfV/login.png" alt="login" border="1"></a>
 
-  Once logged in the user will redirected to the home page and it's username will show in the topbar
+  Once logged in the user will redirected to the home page and it's username will show in the topbar and the login button will change from login to logout.
+  when he press on logout the user logout from the system and navigate back to the homepage.
 
   <a href="https://ibb.co/1sfWm3y"><img src="https://i.ibb.co/PTZH6RX/after-login.png" alt="after-login" border="1"></a>
 
