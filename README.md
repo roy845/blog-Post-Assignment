@@ -42,7 +42,8 @@ This is a Blog posts/events App built with NextJS(React Framework) with typescri
 
 ## Features
 
-- <b> Home </b>
+- <b>Home</b>
+
   <a href="https://ibb.co/s33tSYZ"><img src="https://i.ibb.co/x553vTN/Home.png" alt="Home" border="1"></a>
 
 - <b>User Authentication</b>
