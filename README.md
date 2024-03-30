@@ -142,7 +142,7 @@ This is a Blog posts/events App built with NextJS(React Framework) with typescri
   Once the event is created the user will redirect to the events page where he can view all the events.
   events are added such that the latest event created will be on the left.
 
-  <a href="https://ibb.co/RyWBX5H"><img src="https://i.ibb.co/rsJcBWy/All-posts.png" alt="All-posts" border="1"></a>
+ <a href="https://ibb.co/tH6dK0x"><img src="https://i.ibb.co/b6Vfm42/all-Events.png" alt="all-Events" border="1"></a>
 
 - <b>Event page</b>
   You can navigate to the single event page by clicking on the Read more button.
