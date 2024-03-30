@@ -127,11 +127,11 @@ This is a Blog posts/events App built with NextJS(React Framework) with typescri
 
   Once there are events You can view all events that the users posts and filter them by hashtag.
 
-  <a href="https://ibb.co/RyWBX5H"><img src="https://i.ibb.co/rsJcBWy/All-posts.png" alt="All-posts" border="1"></a>
+  <a href="https://ibb.co/tH6dK0x"><img src="https://i.ibb.co/b6Vfm42/all-Events.png" alt="all-Events" border="1"></a>
 
 - <b>Filter events by hashtag</b>
 
-  <a href="https://ibb.co/6rDmNgZ"><img src="https://i.ibb.co/PF1NtwY/Filter-posts-by-hashtag.png" alt="Filter-posts-by-hashtag" border="0"></a>
+  <a href="https://ibb.co/vqkf4Ht"><img src="https://i.ibb.co/4tpCR7Q/Filter-events-by-hashtag.png" alt="Filter-events-by-hashtag" border="1"></a>
 
 - <b>Create new event</b>
   In this page the user can create new event.
@@ -147,6 +147,6 @@ This is a Blog posts/events App built with NextJS(React Framework) with typescri
 - <b>Event page</b>
   You can navigate to the single event page by clicking on the Read more button.
 
-  <a href="https://ibb.co/mcDWdPS"><img src="https://i.ibb.co/gRjKQc6/post-page.png" alt="post-page" border="1"></a>
+  <a href="https://ibb.co/6Z7xkB1"><img src="https://i.ibb.co/pPB8SyR/event-page.png" alt="event-page" border="0"></a>
 
   clicking on the back arrow will navigate back to the all events page
